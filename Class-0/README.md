@@ -1,7 +1,3 @@
-## Pull Requests
-We had two fortunate pull requests already from @vesakr (the Main.java) and @JonasWG (the one inside the main folder) :).
-
-So we are not receiving pull requests anymore, unless, you would like to improve our colleagues codes :)
 
 # BasicJavaRecap
 
