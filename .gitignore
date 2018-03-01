@@ -1,0 +1,4 @@
+*.class
+SolutionsHackerRank/*
+FirstAssignment/*
+.DS_Store
